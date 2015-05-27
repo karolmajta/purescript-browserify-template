@@ -1,0 +1,21 @@
+{
+  "name": "purescript-browserify-template",
+  "version": "1.0.0",
+  "description": "Template for using purescript with browserify",
+  "authors": [
+    "Karol Majta"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/karolmajta/purescript-browserify-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-foldable-traversable": "~0.3.1",
+    "purescript-lists": "~0.6.2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "purescript-browserify-template",
+  "version": "1.0.0",
+  "description": "A template for using purescript with browserify and gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "purescript": "^0.6.10",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0",
+    "browserify": "^10.2.1",
+    "gulp-purescript": "^0.4.2",
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolmajta/purescript-browserify-template.git"
+  },
+  "author": "Karol Majta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolmajta/purescript-browserify-template/issues"
+  },
+  "homepage": "https://github.com/karolmajta/purescript-browserify-template#readme"
+}

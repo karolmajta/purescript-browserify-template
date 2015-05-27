@@ -1,0 +1,6 @@
+bower_components/
+node_modules/
+purescript_modules/
+build/
+.psci_modules/
+.psci
